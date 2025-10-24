@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Primer commit de AutoEmpre SaaS"
+git branch -M main
+git remote add origin https://github.com/DamianBrrmudez/autoempre-saas.git
+git push -u origin main
+
